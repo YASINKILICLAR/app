@@ -1,3 +1,7 @@
 merhaba
+ yasin
+ikinci satir
+
 remote master 1 dan gelen guncelleme
 remote masterdan ikinci satir
+ 
